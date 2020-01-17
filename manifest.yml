@@ -1,0 +1,4 @@
+applications:
+  - name: dinobot
+    memory: 64M
+    host: dinobot
